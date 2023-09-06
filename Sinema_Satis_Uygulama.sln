@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinema_Satis_Uygulama", "Sinema_Satis_Uygulama\Sinema_Satis_Uygulama.csproj", "{56271E01-3970-46E0-BC38-8F8D6E3DC859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56271E01-3970-46E0-BC38-8F8D6E3DC859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56271E01-3970-46E0-BC38-8F8D6E3DC859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56271E01-3970-46E0-BC38-8F8D6E3DC859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56271E01-3970-46E0-BC38-8F8D6E3DC859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {616367C0-F246-4205-8994-66DFE493379B}
+	EndGlobalSection
+EndGlobal

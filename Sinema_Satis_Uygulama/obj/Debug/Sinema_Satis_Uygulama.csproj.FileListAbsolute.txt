@@ -1,0 +1,10 @@
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\bin\Debug\Sinema_Satis_Uygulama.exe.config
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\bin\Debug\Sinema_Satis_Uygulama.exe
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\bin\Debug\Sinema_Satis_Uygulama.pdb
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\obj\Debug\Sinema_Satis_Uygulama.csproj.AssemblyReference.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\obj\Debug\Sinema_Satis_Uygulama.Form1.resources
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\obj\Debug\Sinema_Satis_Uygulama.Properties.Resources.resources
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\obj\Debug\Sinema_Satis_Uygulama.csproj.GenerateResource.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\obj\Debug\Sinema_Satis_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\obj\Debug\Sinema_Satis_Uygulama.exe
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Sinema_Satis_Uygulama\Sinema_Satis_Uygulama\obj\Debug\Sinema_Satis_Uygulama.pdb
